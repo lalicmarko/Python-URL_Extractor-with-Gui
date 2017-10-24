@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a82b298-b3b0-4f15-bdb1-befd15fe2710" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUIpython.py" afterPath="$PROJECT_DIR$/GUIpython.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/URLlinksEXTRACTOR.py" afterPath="$PROJECT_DIR$/URLlinksEXTRACTOR.py" />
     </list>
@@ -15,25 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="URLlinksEXTRACTOR.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="URLlinksEXTRACTOR.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/URLlinksEXTRACTOR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="50" />
               <folding>
-                <element signature="e#241#250#0" expanded="true" />
+                <element signature="e#271#280#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GUIpython.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GUIpython.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GUIpython.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="50" />
+            <state relative-caret-position="85">
+              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
               <folding>
-                <element signature="e#241#262#0" expanded="true" />
+                <element signature="e#271#292#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,9 +56,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GUIpython.py" />
         <option value="$PROJECT_DIR$/Stack.py" />
         <option value="$PROJECT_DIR$/URLlinksEXTRACTOR.py" />
+        <option value="$PROJECT_DIR$/GUIpython.py" />
       </list>
     </option>
   </component>
@@ -170,16 +169,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GUIpython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="50" />
-          <folding>
-            <element signature="e#241#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -190,10 +179,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/URLlinksEXTRACTOR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="50" />
           <folding>
-            <element signature="e#241#250#0" expanded="true" />
+            <element signature="e#271#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIpython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#271#292#0" expanded="true" />
           </folding>
         </state>
       </provider>
