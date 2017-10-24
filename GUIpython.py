@@ -1,3 +1,10 @@
+# **  *** *       * * *   * ***   ***
+# * * *   **     ** * *   * *  * *
+# * * *** * *   * * * *   * * *  * ***
+# * * *   *  * *  * * *   * ***  *   *
+# **  *** *   *   * *  **** *  *  ***
+# You can find me at https://github.com/lalicmarko
+
 from tkinter import *
 from URLlinksEXTRACTOR import extractfunctionForGui
 from Stack import Stack

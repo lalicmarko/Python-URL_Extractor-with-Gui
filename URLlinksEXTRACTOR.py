@@ -1,3 +1,10 @@
+# **  *** *       * * *   * ***   ***
+# * * *   **     ** * *   * *  * *
+# * * *** * *   * * * *   * * *  * ***
+# * * *   *  * *  * * *   * ***  *   *
+# **  *** *   *   * *  **** *  *  ***
+# You can find me at https://github.com/lalicmarko
+
 import re
 import requests
 
